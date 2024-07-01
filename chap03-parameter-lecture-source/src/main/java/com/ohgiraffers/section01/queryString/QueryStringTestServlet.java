@@ -24,24 +24,24 @@ public class QueryStringTestServlet extends HttpServlet {
         String name = request.getParameter("name");
         System.out.println("이름 = " + name);
 
-        int age = Integer.parseInt(request.getParameter("age"));
-        System.out.println("나이 = " + age);
-
-        LocalDate birthday = LocalDate.parse(request.getParameter("birthday"));
-        System.out.println("생일 = " + birthday);
-
-        String gender = request.getParameter("gender");
-        System.out.println("성별 = " + gender);
-
-        String national = request.getParameter("national");
-        System.out.println("국적 = " + national);
-
-        String[] hobbies = request.getParameterValues("hobbies");
-        System.out.println("취미 : ");
-
-        for (String hobby : hobbies) {
-            System.out.println(hobby);
-        }
+//        int age = Integer.parseInt(request.getParameter("age"));
+//        System.out.println("나이 = " + age);
+//
+//        LocalDate birthday = LocalDate.parse(request.getParameter("birthday"));
+//        System.out.println("생일 = " + birthday);
+//
+//        String gender = request.getParameter("gender");
+//        System.out.println("성별 = " + gender);
+//
+//        String national = request.getParameter("national");
+//        System.out.println("국적 = " + national);
+//
+//        String[] hobbies = request.getParameterValues("hobbies");
+//        System.out.println("취미 : ");
+//
+//        for (String hobby : hobbies) {
+//            System.out.println(hobby);
+//        }
     }
 
 }
