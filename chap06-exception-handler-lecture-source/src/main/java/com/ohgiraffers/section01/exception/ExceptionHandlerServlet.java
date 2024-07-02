@@ -72,8 +72,8 @@ public class ExceptionHandlerServlet extends HttpServlet {
         PrintWriter out = response.getWriter();
         out.println(errorPage.toString());
 
-        out.flush();
-        out.close();
+        out.flush(); // 출력해주기
+        out.close(); // 세션 닫기
     }
 
 

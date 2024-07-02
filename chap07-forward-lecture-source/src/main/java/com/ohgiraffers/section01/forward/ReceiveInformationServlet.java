@@ -31,7 +31,5 @@ public class ReceiveInformationServlet extends HttpServlet {
         RequestDispatcher rd = request.getRequestDispatcher("print");
         rd.forward(request,response);
 
-
-
     }
 }

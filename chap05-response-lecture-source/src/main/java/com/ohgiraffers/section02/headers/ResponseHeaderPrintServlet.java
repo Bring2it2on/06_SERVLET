@@ -19,7 +19,7 @@ public class ResponseHeaderPrintServlet extends HttpServlet {
 
         PrintWriter out = response.getWriter();
 
-        response.setHeader("Refresh", "1");
+//        response.setHeader("Refresh", "1");
 
         // 현재 시간을 밀리초로 반환
         long currentTime = System.currentTimeMillis();
