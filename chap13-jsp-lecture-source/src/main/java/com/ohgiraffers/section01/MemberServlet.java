@@ -26,6 +26,7 @@ public class MemberServlet extends HttpServlet {
         HttpSession session = request.getSession();
         session.setAttribute("fullName", "홍홍길동");
 
+        // testForward.jsp로 request 보내주기 및 해당 페이지 이동
         RequestDispatcher dispatcher = request.getRequestDispatcher("/WEB-INF/testForward.jsp");
         dispatcher.forward(request,response);
     }

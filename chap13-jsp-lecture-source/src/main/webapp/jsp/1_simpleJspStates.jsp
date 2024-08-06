@@ -38,6 +38,7 @@
 <%-- expression 태그 --%>
 
 name : <%= name %>
+<br>
 age : <%= age %>
 
 </body>

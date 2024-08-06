@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfccdf0a-037f-4f4e-8346-1b8995dcf540" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../chap13-jsp-lecture-source/src/main/java/com/ohgiraffers/section01/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-jsp-lecture-source/src/main/java/com/ohgiraffers/section01/MemberServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-jsp-lecture-source/src/main/webapp/META-INF/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-jsp-lecture-source/src/main/webapp/WEB-INF/testForward.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap13-jsp-lecture-source/src/main/webapp/jsp/1_simpleJspStates.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dfccdf0a-037f-4f4e-8346-1b8995dcf540" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,7 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719975102272</updated>
       <workItem from="1719975103545" duration="14070000" />
-      <workItem from="1720053051037" duration="1890000" />
+      <workItem from="1720053051037" duration="1893000" />
     </task>
     <servers />
   </component>
